@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hart</h1>
+<h1 align="center">Hi 👩🏻‍💻, I'm Hart</h1>
 <h3 align="center">Backend Dev in Progress | Computer Engineering Student</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/akuagari-pixel-computer-akuagari-pixel-gif-26976071">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heartdevilla&label=Profile%20views&color=0e75b6&style=flat" alt="heartdevilla" /> </p>
 
