@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hart</h1>
+<h1 align="center">Hiii, I'm Hart</h1>
 <h3 align="center">Backend Dev in Progress | Computer Engineering Student</h3>
 <img align="right" alt="Coding" width="400" src="9a5c2d6633f5be93aeac0aa2c0b927e7.gif">
 
